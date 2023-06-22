@@ -21,12 +21,18 @@ h1{
 }
 
 h2, h3{
+    font-size:x-large;
     border-top-style: dotted;
     border-color: #000c32;
 }
 
 .links {
+    text-align: right;
+    font-size:small;
     align-content: end;
     background-color: white;
 }
 
+.imagem{
+
+}
